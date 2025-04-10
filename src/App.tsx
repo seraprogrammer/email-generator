@@ -1,4 +1,4 @@
-import React, { useState, FormEvent, ChangeEvent } from "react";
+import { useState, FormEvent, ChangeEvent } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 interface EmailTemplate {
